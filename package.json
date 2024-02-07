@@ -2,7 +2,7 @@
   "name": "danielhofferbert-dotcom-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.danielhofferbert.com",
+  "homepage": "https://Obi-Dan.github.io/danielhofferbert-dotcom-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
