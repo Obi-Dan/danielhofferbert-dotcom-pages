@@ -4,5 +4,6 @@ deploy:
 .PHONY: deploy
 
 test-a:
-	dig danielhofferbert.com +noall +answer -t A
+	dig www.danielhofferbert.com +noall +answer -t A
+	dig www.danielhofferbert.com +noall +answer -t AAAA
 .PHONY: test-a
