@@ -19,7 +19,7 @@ function App() {
         >
           Learn React
         </a>
-        <Name name={'bob'} />
+        <Name name={'bob2'} />
       </header>
     </div>
   );
