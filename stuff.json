@@ -1,0 +1,80 @@
+{
+    "Application Development": [
+        "Java",
+        "C++",
+        "Visual C++",
+        "MFC",
+        "Kotlin",
+        "Javascript",
+        "Typescript",
+        "Scala",
+        "Python"
+    ],
+    "Frameworks/Libraries": [
+        "Spring Boot",
+        "React",
+        "Express.js"
+    ],
+    "Databases": [
+        "CCL",
+        "Oracle PL/SQL",
+        "MySQL",
+        "MongoDB"
+    ],
+    "Testing Frameworks": [
+        "JUnit",
+        "Google Test",
+        "Jest",
+        "Cypress",
+        "Locust",
+        "pytest"
+    ],
+    "API Design": [
+        "ReST",
+        "Swagger",
+        "OpenAPI"
+    ],
+    "IDEs": [
+        "Eclipse",
+        "Microsoft Visual Studio",
+        "IntelliJ IDEA",
+        "Visual Studio Code"
+    ],
+    "Operating Systems": [
+        "Microsoft Windows",
+        "macOS",
+        "Linux",
+        "UNIX"
+    ],
+    "Cloud": [
+        "GCP",
+        "AWS"
+    ],
+    "Version Control": [
+        "Git",
+        "Subversion",
+        "SVN"
+    ],
+    "CI/CD": [
+        "Maven",
+        "Gradle",
+        "Jenkins",
+        "Hudson",
+        "GitLab",
+        "GitHub Actions"
+    ],
+    "Project Tracking": [
+        "JIRA",
+        "Crucible",
+        "Aha!"
+    ],
+    "Software Development Methodologies": [
+        "SAFe",
+        "Agile",
+        "Scrum",
+        "Mob Programming",
+        "BDD",
+        "TDD",
+        "Pair Programming"
+    ],
+}
