@@ -13,4 +13,5 @@ run:
 test-a:
 	dig danielhofferbert.com +noall +answer -t A
 	dig danielhofferbert.com +noall +answer -t AAAA
+	dig www.danielhofferbert.com +noall +answer -t CNAME
 .PHONY: test-a
