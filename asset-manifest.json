@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/danielhofferbert.com/static/css/main.f855e6bc.css",
-    "main.js": "/danielhofferbert.com/static/js/main.26193f52.js",
-    "static/js/592.e71ff3fa.chunk.js": "/danielhofferbert.com/static/js/592.e71ff3fa.chunk.js",
-    "index.html": "/danielhofferbert.com/index.html",
-    "main.f855e6bc.css.map": "/danielhofferbert.com/static/css/main.f855e6bc.css.map",
-    "main.26193f52.js.map": "/danielhofferbert.com/static/js/main.26193f52.js.map",
-    "592.e71ff3fa.chunk.js.map": "/danielhofferbert.com/static/js/592.e71ff3fa.chunk.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.b8703bce.js",
+    "static/js/592.e71ff3fa.chunk.js": "/static/js/592.e71ff3fa.chunk.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.b8703bce.js.map": "/static/js/main.b8703bce.js.map",
+    "592.e71ff3fa.chunk.js.map": "/static/js/592.e71ff3fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.26193f52.js"
+    "static/js/main.b8703bce.js"
   ]
 }
