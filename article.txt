@@ -1,0 +1,46 @@
+Intro
+
+prerequisites installed
+https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+latest version of nodejs and npm
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+git installed locally and connected to github.com via ssh
+
+
+* create app with typescript
+https://create-react-app.dev/docs/getting-started/#creating-a-typescript-app
+npx create-react-app <username>.github.io
+go to directory
+
+* steps to add to github
+https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+git init -b main
+
+Provider Setup
+
+DNS Custom Setttings
+A host @
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+AAAA host @
+2606:50c0:8000::153
+2606:50c0:8001::153
+2606:50c0:8002::153
+2606:50c0:8003::153
+
+host www CNAME
+user default github pages URL <github-username>.github.io
+
+host <subdomain> CNAME
+user default github pages URL <subdomain>.<github-username>.github.io
+
+Repo Setup
+
+Project
+
+Conclusion
+
+Link to example for subdomain
